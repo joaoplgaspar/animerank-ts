@@ -7,7 +7,7 @@ Site para descobrir animes ou rankear seus animes preferidos. Sendo desenvolvido
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **AnimeRank REACTJS**
-| :label: Tecnologias | react, html5, css3, javascript
+| :label: Tecnologias | react, sass, typescript, javascript
 | :rocket: URL         | https://animerank-react.vercel.app
 
 <hr>
