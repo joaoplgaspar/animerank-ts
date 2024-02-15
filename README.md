@@ -1,3 +1,4 @@
 ## AniRank
 
-https://anirank.vercel.app
+animerank-ts.vercel.app
+
