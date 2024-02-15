@@ -14,7 +14,7 @@ export default function Banners( { imageBanners }: Props) {
 
   return (
     <div className={styles.banners}>
-      <Carousel showArrows autoPlay infiniteLoop>
+      <Carousel showArrows autoPlay infiniteLoop showStatus={false}>
         {imageBanners.map(banner => (
           <Banner 
             key={banner.id}
